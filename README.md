@@ -17,20 +17,6 @@ This repository contains PyTorch implementations of :
 
 ### 2. Language modelling on Pokemon names
 
-Select examples of generated Pokemon names. 
-
-acgaeria<br/>
-iciraano<br/>
-oteta <br/>
-qilornoe<br/>
-sitorenn<br/>
-xyenrai<br/>
-yaoraoni<br/>
-zeronaar<br/>
-
-Overall, the results were quite underwhelming. I think the main reason could be one/all of the below :
-1. The dataset is just weird. I agree Pokemon names are really cool but they don't really follow any trend and are mostly random alphabets with some vowels here and there.
-2. I was too impatient and didn't train long enough (also quite plausible)
 
 ### 3. Language modelling on Shakespeare's Sonnets
 
@@ -48,8 +34,6 @@ Overall, the results were quite underwhelming. I think the main reason could be 
  in my mind that which steals a <br/>
  little of my mind and in thy <br/>
  sweet semblance to be a woman
-
- I was honestly really impressed with these results, given I trained only for 15 epochs. I think it captured some important relationships between words. 
-
+ 
 ## Resources
 - Stanford CS224n : Natural language processing using deep learning([Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))([website](http://web.stanford.edu/class/cs224n/))
