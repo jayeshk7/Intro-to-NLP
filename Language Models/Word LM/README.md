@@ -9,7 +9,8 @@ I used all of Shakespeare's amazing sonnets as the dataset. The model was traine
 **3. Fully connected layer for prediction**  
 
 **Training loss V/S iterations (after gaussian smoothing)**
-<image src=https://github.com/jayeshk7/Intro-to-NLP/blob/master/Language%20Models/Word%20LM/smooth%20loss.png>
+
+![](https://github.com/jayeshk7/Intro-to-NLP/blob/master/Language%20Models/Word%20LM/smooth%20loss.png)
 
 ### Results : 
 
