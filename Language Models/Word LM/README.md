@@ -1,10 +1,15 @@
 # Word level langugage modelling
 
-This repository contains code for word level language modelling using PyTorch. I used all of shakespeare's sonnets as the dataset. The model was trained for 15 epochs with just randomly initialised vectors for word embeddings.
+I used all of Shakespeare's amazing sonnets as the dataset. The model was trained for 15 epochs with randomly initialised word vectors.
 
-### Architecture 
-Randomly initialised (learnable) 200 dim vectors were used as word representation.
-Embedding vector was fed into a 2-layer LSTM cell with 1024 hidden size and 0.5 dropout on output of first LSTM layer. Output of this LSTM is used as input to the final linear layer which predicts the next word. 
+### Architecture and Plots
+
+> **1. 200 dim word vectors**  
+**2. 2-layer LSTM with 1024 hidden units**  
+**3. Fully connected layer for prediction**  
+
+**Training loss V/S iterations (after gaussian smoothing)**
+![smooth loss](/home/kandpal/Desktop/Intro\ to\ NLP/Language\ Models/Word\ LM/smooth\ loss.png)
 
 ### Results : 
 
@@ -23,4 +28,4 @@ in my mind that which steals a <br/>
 little of my mind and in thy <br/>
 sweet semblance to be a woman<br/>
 
- I was honestly really impressed with these results, given I trained only for 15 epochs. I think it captured some important relationships between words. 
+ I was kind of impressed with the result, given I trained only for 15 epochs. I think it captured some important relationships between words. 

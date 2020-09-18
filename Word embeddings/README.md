@@ -1,11 +1,20 @@
 # Word Embeddings
 
-Word embeddings are an important part of Natural Language Processing. Having good dense representation of words really improves the performance on several tasks, also the representations capture various similarity and differences between words.
+Word embeddings are an important part of Natural Language Processing. Having good dense representation of words really improves the performance on several tasks like Language modelling. Also, the representations capture various similarity and differences between words which is very cool.
 
-**DISCLAIMER** : Only 'Word embeddings.ipynb' of the above 3 codes is complete and works. I do not plan on completing the other 2 anytime soon, sorry! 
+**DISCLAIMER** : Only 'Word embeddings.ipynb' of the above 3 notebooks is complete and works. 
+
+### Results and Plots
+
+**Training loss v/s iterations (after gaussian smoothing)**
+![loss](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/loss.png)
+
+**PCA plots of few words**
+| ![1](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/1.png)| ![2](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/2.png)|
+| ![3](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/3.png)| ![4](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/4.png) |
+
 
 ### Resources
-
 Lectures : Stanford CS224n [Lecture 1 and 2](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 Some important papers include :
