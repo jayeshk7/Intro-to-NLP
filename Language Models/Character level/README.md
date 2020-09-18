@@ -4,9 +4,9 @@ In character language modelling our model predicts the next character instead of
 
 ### Architecture
 
-> **1. One hot character vectors**
-**2. 2-layer LSTM with 512 hidden units**
-**3. Linear layer to predict next letter**
+> **1. One hot character vectors**  
+**2. 2-layer LSTM with 512 hidden units**  
+**3. Fully connected layer for prediction**  
 
 ### Results
 

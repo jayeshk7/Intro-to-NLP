@@ -8,13 +8,14 @@ I used all of Shakespeare's amazing sonnets as the dataset. The model was traine
 **2. 2-layer LSTM with 1024 hidden units**  
 **3. Fully connected layer for prediction**  
 
+<br/>
 **Training loss V/S iterations (after gaussian smoothing)**
 
 ![](https://github.com/jayeshk7/Intro-to-NLP/blob/master/Language%20Models/Word%20LM/smooth%20loss.png)
 
 ### Results : 
 
-> morning it self to my love <br/>
+morning it self to my love <br/>
 you as the sun and make war <br/>
 with me and beauty ’ s own <br/>
 in thy love and this huge <br/>
