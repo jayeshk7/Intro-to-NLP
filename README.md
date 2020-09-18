@@ -1,6 +1,6 @@
 # Intro to NLP
  
-I gotta catch up with this rnn, transformer, gpt stuff<br/>
+Gotta catch up with this rnn, transformer, gpt stuff<br/>
 *There's a separate ReadMe in each folder*
 
 This repository contains **PyTorch** implementation of :
@@ -10,7 +10,7 @@ This repository contains **PyTorch** implementation of :
 
  
 ## Resources
-- Stanford CS224n : Natural language processing using deep learning([Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))([website](http://web.stanford.edu/class/cs224n/))
+- Stanford CS224n : Natural language processing using deep learning ([Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))([website](http://web.stanford.edu/class/cs224n/))
 
 ### TO-DO :
 - [ ] Attention

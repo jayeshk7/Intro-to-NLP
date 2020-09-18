@@ -9,11 +9,11 @@ I used all of Shakespeare's amazing sonnets as the dataset. The model was traine
 **3. Fully connected layer for prediction**  
 
 **Training loss V/S iterations (after gaussian smoothing)**
-![smooth loss](/home/kandpal/Desktop/Intro\ to\ NLP/Language\ Models/Word\ LM/smooth\ loss.png)
+<image src=https://github.com/jayeshk7/Intro-to-NLP/blob/master/Language%20Models/Word%20LM/smooth%20loss.png>
 
 ### Results : 
 
-morning it self to my love <br/>
+> morning it self to my love <br/>
 you as the sun and make war <br/>
 with me and beauty ’ s own <br/>
 in thy love and this huge <br/>
@@ -28,4 +28,4 @@ in my mind that which steals a <br/>
 little of my mind and in thy <br/>
 sweet semblance to be a woman<br/>
 
- I was kind of impressed with the result, given I trained only for 15 epochs. I think it captured some important relationships between words. 
+I was kind of impressed with the result, given I trained only for 15 epochs. More training should hopefully result in better performance.

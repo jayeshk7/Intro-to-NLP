@@ -1,8 +1,9 @@
 # Character Level Language Modelling
 
-In character language modelling our model predicts the next character instead of next word. I used all the Pokemon names as my dataset and trained for around 80 epochs.
+In character language modelling our model predicts the next character instead of the next word. I used all the Pokemon names as my dataset and trained for around 80 epochs.
 
 ### Architecture
+
 > **1. One hot character vectors**
 **2. 2-layer LSTM with 512 hidden units**
 **3. Linear layer to predict next letter**

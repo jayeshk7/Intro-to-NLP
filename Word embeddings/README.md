@@ -7,11 +7,15 @@ Word embeddings are an important part of Natural Language Processing. Having goo
 ### Results and Plots
 
 **Training loss v/s iterations (after gaussian smoothing)**
+
 ![loss](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/loss.png)
 
-**PCA plots of few words**
-| ![1](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/1.png)| ![2](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/2.png)|
-| ![3](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/3.png)| ![4](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/4.png) |
+**PCA plots over a few epochs**
+
+![1](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/1.png)
+![2](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/2.png)
+![3](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/3.png)
+![4](/home/kandpal/Desktop/Intro\ to\ NLP/Word\ embeddings/images/4.png)
 
 
 ### Resources
