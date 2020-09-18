@@ -12,11 +12,12 @@ Word embeddings are an important part of Natural Language Processing. Having goo
 
 **PCA plots over a few epochs**
 
+I didn't check the quality of my word embeddings on any tasks. But the plots make sense to me as french govt and french revolution is more likely than french revolutionary
+
 ![1](https://github.com/jayeshk7/Intro-to-NLP/blob/master/Word%20embeddings/images/1.png)
 ![2](https://github.com/jayeshk7/Intro-to-NLP/blob/master/Word%20embeddings/images/2.png)
 ![3](https://github.com/jayeshk7/Intro-to-NLP/blob/master/Word%20embeddings/images/3.png)
 ![4](https://github.com/jayeshk7/Intro-to-NLP/blob/master/Word%20embeddings/images/4.png)
-
 
 ### Resources
 Lectures : Stanford CS224n [Lecture 1 and 2](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
