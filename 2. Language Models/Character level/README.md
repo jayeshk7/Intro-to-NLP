@@ -23,4 +23,4 @@ Overall, the results were quite underwhelming. I think the main reason could be 
 1. The dataset is just weird. I agree Pokemon names are really cool but they don't really follow any trend and are mostly random alphabets with some vowels here and there.
 2. I was too impatient and didn't train long enough 
 
-You can also download the weights of my model and train it further. Let me know if it results in better names!
+You can download the weights of my model and train it further. Let me know if it results in better names!

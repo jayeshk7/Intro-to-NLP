@@ -1,6 +1,6 @@
 # Word Embeddings
 
-Word embeddings are an important part of Natural Language Processing. Having good dense representation of words really improves the performance on several tasks like Language modelling. Also, the representations capture various similarity and differences between words which is very cool.
+Word embeddings are an important part of Natural Language Processing. Having good dense representation of words really improves the performance on several tasks like Language modelling, machine translation etc. Also, the representations capture various similarity and differences between words which is very cool. I used this [Wikipedia page](https://en.wikipedia.org/wiki/French_Revolution) as my dataset.
 
 **DISCLAIMER** : Only 'Word embeddings.ipynb' of the above 3 notebooks is complete and works. 
 
@@ -12,7 +12,7 @@ Word embeddings are an important part of Natural Language Processing. Having goo
 
 **PCA plots over a few epochs**
 
-I didn't check the quality of my word embeddings on any tasks. But the plots make sense to me as french govt and french revolution is more likely than french revolutionary
+I didn't check the quality of my word embeddings on any task. But I think the plots make a little sense because french govt and french revolution are more likely to occur in the dataset than french revolutionary.
 
 ![1](https://github.com/jayeshk7/Intro-to-NLP/blob/master/Word%20embeddings/images/1.png)
 ![2](https://github.com/jayeshk7/Intro-to-NLP/blob/master/Word%20embeddings/images/2.png)

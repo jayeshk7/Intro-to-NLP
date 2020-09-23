@@ -1,6 +1,6 @@
 # Intro to NLP
  
-Gotta catch up with this rnn, transformer, gpt stuff<br/>
+This has codes for everything I implemented while trying to study NLP.<br/>
 *There's a separate ReadMe in each folder*
 
 This repository contains **PyTorch** implementation of :
@@ -11,6 +11,7 @@ This repository contains **PyTorch** implementation of :
  
 ## Resources
 - Stanford CS224n : Natural language processing using deep learning ([Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z))([website](http://web.stanford.edu/class/cs224n/))
+- [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James Martin
 
 ### TO-DO :
 - [ ] Attention
