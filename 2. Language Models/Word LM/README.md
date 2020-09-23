@@ -11,7 +11,7 @@ I used all of Shakespeare's amazing sonnets as the dataset. The model was traine
 <br/>
 **Training loss V/S iterations (after gaussian smoothing)**
 
-![](https://github.com/jayeshk7/Intro-to-NLP/blob/master/Language%20Models/Word%20LM/smooth%20loss.png)
+![loss](https://github.com/jayeshk7/Intro-to-NLP/blob/master/2.%20Language%20Models/Word%20LM/smooth%20loss.png)
 
 ### Results : 
 
