@@ -30,4 +30,4 @@ in my mind that which steals a <br/>
 little of my mind and in thy <br/>
 sweet semblance to be a woman<br/>
 
-I was a little impressed with the result, given I only trained for 15 epochs. More training should hopefully result in more coherent sonnets.
+Somewhat reasonable result, given I only trained for 15 epochs. More training should hopefully result in more coherent sonnets.
